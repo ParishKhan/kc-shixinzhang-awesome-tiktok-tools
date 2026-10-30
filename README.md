@@ -27,6 +27,7 @@
 - [Riverside Transcription](https://riverside.fm/transcription) - Transcription with speaker labels for podcasters and creators.
 - [AssemblyAI](https://www.assemblyai.com/) - Speech-to-text API with speaker diarization and content moderation.
 - [Rev](https://www.rev.com/) - AI and human transcription, captions, and subtitles.
+- [Karaoke Captions](https://karaokecaptions.com/) - Generate animated word-by-word TikTok captions with on-device transcription and subtitle export.
 - [Notta](https://www.notta.ai/) - Real-time transcription across browser, mobile, and meeting tools.
 - [Otter.ai](https://otter.ai/) - Real-time AI transcription with search, highlights, and speaker identification.
 - [Fireflies.ai](https://fireflies.ai/) - Meeting transcription with topic tracking and conversation search.
